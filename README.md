@@ -81,6 +81,8 @@ Me chamo Rychard, tenho 22 anos e sou natural de Seropédica, RJ. Atualmente est
 
 <br/>
 <br/>
+<br/>
+<br/>
 
 ### 📊 Estatísticas
 
