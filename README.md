@@ -34,16 +34,6 @@ Me chamo Rychard, tenho 22 anos e sou natural de Seropédica, RJ. Atualmente est
 <br/>
 <br/>
 
-### 📊 Estatísticas
-
-
-<img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200"  
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rychardssilva&theme=radical&layout=compact&langs_count=6"
-    />
-
 
 
 
